@@ -1,3 +1,2 @@
 # python-challenge
-wrote in a code to find the file path for the pybank file
-wrote in a code to find the file path for the pypoll file 
+submission of the python challenge homework with the python, and analysis files
